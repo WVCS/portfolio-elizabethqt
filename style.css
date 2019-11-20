@@ -1,0 +1,26 @@
+body {
+  background-color: #A6D8D4
+;
+}
+h3{
+  text-align:center;
+  color:white;
+  font-size: 300%;
+  font-family: impact;
+}
+img {
+ width: 50%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+tr{
+  align:center;
+  text-align: center;
+  color:
+}
+table
+{
+  text-align: right;
+  border: 3px solid black;
+}
