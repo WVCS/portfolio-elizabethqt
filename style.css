@@ -24,3 +24,8 @@ table
   text-align: right;
   border: 3px solid black;
 }
+h4 { align: center;
+  color: black;
+  font-size: 200%;
+  font-family: impact;
+}
